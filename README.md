@@ -1,16 +1,19 @@
 # instagram_flutter
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
+This app connect to firebase web and you can use in mobile 
+And chrome this app have login signup screen you can 
+Change your profile picture and comment anyone pic
+There are so many widgets you can like and comment the pic
+And after that logout your insta id after you can check your firebase auth 
+Your login id showing in screen or firebase storage to save your history 
+If you upload picture in insta then you can check your firebase storage history your
+ Photo id and password
+ 
+ 
+ /home/dushyant/Videos/Screencast from 17-03-22 10:23:33 PM IST.webm
+ 
+ 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
