@@ -14,6 +14,3 @@ If you upload picture in insta then you can check your firebase storage history 
  /home/dushyant/Videos/Screencast from 17-03-22 10:23:33 PM IST.webm
  
  
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
