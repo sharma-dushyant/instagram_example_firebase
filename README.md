@@ -10,7 +10,5 @@ Your login id showing in screen or firebase storage to save your history
 If you upload picture in insta then you can check your firebase storage history your
  Photo id and password
  
- 
- /home/dushyant/Videos/Screencast from 17-03-22 10:23:33 PM IST.webm
- 
- 
+
+ ![Screencast from 17-03-22 10_23_33 PM IST](https://user-images.githubusercontent.com/87010265/159208958-e520483f-9806-4146-bf85-a9bb00bb61e2.gif)
